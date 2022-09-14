@@ -1,0 +1,2 @@
+array = np.arange(3125).reshape(5,5,5,5,5)
+print(array)
